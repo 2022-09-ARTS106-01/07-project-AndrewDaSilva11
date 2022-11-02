@@ -30,10 +30,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Outline: 0.0062
+    - _Outline: 0.0046
     - _Shininess: 0.579717
     m_Colors:
-    - _Color: {r: 0.3490566, g: 0.1536727, b: 0.25800386, a: 1}
+    - _Color: {r: 0.3679245, g: 0.1723923, b: 0.27797967, a: 1}
     - _Emission: {r: 0, g: 0, b: 0, a: 0}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
